@@ -1,8 +1,8 @@
 # Visibility report
 
 - Thư mục nhãn: `dataset\labels\train`
-- 20 ảnh, 29 skeleton, trung bình 16.21 khớp có v > 0 mỗi người
-- Tổng: v=2 332 | v=1 138 | v=0 23
+- 20 ảnh, 29 skeleton, trung bình 15.97 khớp có v > 0 mỗi người
+- Tổng: v=2 331 | v=1 132 | v=0 30
 
 | # | Khớp | v=2 | v=1 | v=0 | %v=1 |
 | ---: | --- | ---: | ---: | ---: | ---: |
@@ -18,11 +18,11 @@
 | 9 | left_wrist | 18 | 11 | 0 | 38% |
 | 10 | right_wrist | 21 | 7 | 1 | 24% |
 | 11 | left_hip | 17 | 12 | 0 | 41% |
-| 12 | right_hip | 24 | 5 | 0 | 17% |
-| 13 | left_knee | 17 | 9 | 3 | 31% |
-| 14 | right_knee | 21 | 5 | 3 | 17% |
-| 15 | left_ankle | 13 | 8 | 8 | 28% |
-| 16 | right_ankle | 14 | 7 | 8 | 24% |
+| 12 | right_hip | 24 | 4 | 1 | 14% |
+| 13 | left_knee | 17 | 7 | 5 | 24% |
+| 14 | right_knee | 20 | 4 | 5 | 14% |
+| 15 | left_ankle | 13 | 7 | 9 | 24% |
+| 16 | right_ankle | 14 | 6 | 9 | 21% |
 
 ## Đọc bảng này thế nào
 

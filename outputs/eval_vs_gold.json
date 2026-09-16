@@ -8,7 +8,7 @@
     "oks50": 0.9655,
     "oks75": 0.9655,
     "findings": {
-      "gold_khong_gan_nhan": 78,
+      "gold_khong_gan_nhan": 71,
       "co_khac_gold": 49,
       "lech_nhe": 8,
       "truot_han": 2,
@@ -241,12 +241,6 @@
               "label": "Gold không gán khớp này",
               "keypoint": "left_hip",
               "detail": "Không bị trừ điểm: khớp gold có v=0 bị loại khỏi OKS. Xem mục lưu ý trong README."
-            },
-            {
-              "type": "gold_khong_gan_nhan",
-              "label": "Gold không gán khớp này",
-              "keypoint": "right_hip",
-              "detail": "Không bị trừ điểm: khớp gold có v=0 bị loại khỏi OKS. Xem mục lưu ý trong README."
             }
           ]
         },
@@ -265,18 +259,6 @@
               "type": "gold_khong_gan_nhan",
               "label": "Gold không gán khớp này",
               "keypoint": "right_ear",
-              "detail": "Không bị trừ điểm: khớp gold có v=0 bị loại khỏi OKS. Xem mục lưu ý trong README."
-            },
-            {
-              "type": "gold_khong_gan_nhan",
-              "label": "Gold không gán khớp này",
-              "keypoint": "left_knee",
-              "detail": "Không bị trừ điểm: khớp gold có v=0 bị loại khỏi OKS. Xem mục lưu ý trong README."
-            },
-            {
-              "type": "gold_khong_gan_nhan",
-              "label": "Gold không gán khớp này",
-              "keypoint": "right_knee",
               "detail": "Không bị trừ điểm: khớp gold có v=0 bị loại khỏi OKS. Xem mục lưu ý trong README."
             }
           ]
@@ -722,18 +704,6 @@
               "label": "Gold không gán khớp này",
               "keypoint": "left_wrist",
               "detail": "Không bị trừ điểm: khớp gold có v=0 bị loại khỏi OKS. Xem mục lưu ý trong README."
-            },
-            {
-              "type": "gold_khong_gan_nhan",
-              "label": "Gold không gán khớp này",
-              "keypoint": "left_ankle",
-              "detail": "Không bị trừ điểm: khớp gold có v=0 bị loại khỏi OKS. Xem mục lưu ý trong README."
-            },
-            {
-              "type": "gold_khong_gan_nhan",
-              "label": "Gold không gán khớp này",
-              "keypoint": "right_ankle",
-              "detail": "Không bị trừ điểm: khớp gold có v=0 bị loại khỏi OKS. Xem mục lưu ý trong README."
             }
           ]
         },
@@ -753,18 +723,6 @@
               "label": "Cờ khác gold",
               "keypoint": "left_hip",
               "detail": "Vị trí đúng nhưng bạn ghi v=2, gold ghi v=1. Không trừ điểm OKS - nhưng nếu lệch hàng loạt thì guideline chưa thống nhất."
-            },
-            {
-              "type": "gold_khong_gan_nhan",
-              "label": "Gold không gán khớp này",
-              "keypoint": "left_knee",
-              "detail": "Không bị trừ điểm: khớp gold có v=0 bị loại khỏi OKS. Xem mục lưu ý trong README."
-            },
-            {
-              "type": "gold_khong_gan_nhan",
-              "label": "Gold không gán khớp này",
-              "keypoint": "right_knee",
-              "detail": "Không bị trừ điểm: khớp gold có v=0 bị loại khỏi OKS. Xem mục lưu ý trong README."
             }
           ]
         }
